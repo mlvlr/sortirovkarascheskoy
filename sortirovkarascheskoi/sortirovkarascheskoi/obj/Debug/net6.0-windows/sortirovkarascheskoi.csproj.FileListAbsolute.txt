@@ -1,0 +1,75 @@
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.exe
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.deps.json
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.runtimeconfig.json
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.pdb
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.Form1.resources
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.GenerateResource.cache
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AssemblyInfoInputs.cache
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AssemblyInfo.cs
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\refint\sortirovkarascheskoi.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.pdb
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.genruntimeconfig.cache
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\ref\sortirovkarascheskoi.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AU.resources
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.Reg.resources
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Валерия\source\repos\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.CopyComplete
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.exe
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.deps.json
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.runtimeconfig.json
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.pdb
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.AssemblyReference.cache
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AU.resources
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.Form1.resources
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.Reg.resources
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.GenerateResource.cache
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AssemblyInfoInputs.cache
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AssemblyInfo.cs
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.CoreCompileInputs.cache
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.CopyComplete
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\refint\sortirovkarascheskoi.dll
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.pdb
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.genruntimeconfig.cache
+E:\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\ref\sortirovkarascheskoi.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.exe
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.deps.json
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.runtimeconfig.json
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\sortirovkarascheskoi.pdb
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.AssemblyReference.cache
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AU.resources
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.Form1.resources
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.Reg.resources
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.GenerateResource.cache
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AssemblyInfoInputs.cache
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.AssemblyInfo.cs
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.csproj.CopyComplete
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\refint\sortirovkarascheskoi.dll
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.pdb
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\sortirovkarascheskoi.genruntimeconfig.cache
+C:\Users\Валерия\OneDrive\Рабочий стол\sortirovkarascheskoi\sortirovkarascheskoi\obj\Debug\net6.0-windows\ref\sortirovkarascheskoi.dll
